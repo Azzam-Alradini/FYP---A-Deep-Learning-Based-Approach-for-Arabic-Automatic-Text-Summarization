@@ -17,5 +17,4 @@ we opted to use the well-known AraVec3.0 1 which is a pre-trained word embedding
 more info from here: https://github.com/bakrianoo/aravec
 
 To read our research:
-
 https://drive.google.com/file/d/1XT1SzrmZrzSiOE95mzIxKxSsB-2Jt1Zz/view?usp=sharing
