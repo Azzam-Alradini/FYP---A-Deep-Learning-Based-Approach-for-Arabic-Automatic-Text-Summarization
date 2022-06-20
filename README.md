@@ -12,7 +12,7 @@ The dataset that we used in our project:
 https://www.kaggle.com/datasets/fadyelkbeer/arabic-summarization-bbc-news?select=bbc_news_arabic_summarization.csv
 
 In order to enhance the model to understand the Arabic semantics, 
-we opted to use the well-known AraVec3.0 1 which is a pre-trained word embedding model that will make the model understand the meaning of Arabic sentences.
+we opted to use the well-known AraVec3.0.1 which is a pre-trained word embedding model that will make the model understand the meaning of Arabic sentences.
 
 more info from here: https://github.com/bakrianoo/aravec
 
